@@ -1,4 +1,7 @@
 # POWER BI PROJECTS
+![alt text](/Images/GlobalDashboard1.jpeg)
+![alt text](/Images/GlobalDashboard2.jpeg)
+![alt text](/Images/GlobalDashboard3.jpeg)
 ## Overview
 
 Welcome to the **Power BI Dashboards** repository! This repository contains a collection of interactive dashboards created using Microsoft Power BI. These dashboards are designed to visualize data effectively and provide insights for various analytical needs.
